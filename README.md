@@ -11,7 +11,7 @@ I allready preinstalled the packages which are needed for ESP32 builds with the 
 ## Example usage local
 
 ```docker
-docker run -v ${pwd}:/opt/build dirnei/platformio-for-ci-espressif32-arduino:latest platformio run -d /opt/build/.
+docker run -v ${pwd}:/opt/build dirnei/ --user 1001 platformio-for-ci-espressif32-arduino:latest platformio run -d /opt/build/.
 ```
 
 ## Example usage Azure DevOps
