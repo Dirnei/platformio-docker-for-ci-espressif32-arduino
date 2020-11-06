@@ -3,7 +3,7 @@
 [![](https://img.shields.io/docker/pulls/dirnei/platformio-for-ci-espressif32-arduino?style=for-the-badge)](https://cloud.docker.com/repository/docker/dirnei/platformio-for-ci-espressif32-arduino/ "View on Docker Hub")
 [![](https://img.shields.io/github/license/dirnei/platformio-docker-for-ci-espressif32-arduino?style=for-the-badge)](https://github.com/Dirnei/platformio-docker-for-ci-espressif32-arduino/blob/master/LICENSE "View License")
 
-[![](https://img.shields.io/badge/BASE%20IMAGE-Andreas_Huber_\\%20_platformio_for_ci-green?style=for-the-badge)](https://github.com/Andreas-Huber/platformio-docker-for-ci "View Base Image")
+[![](https://img.shields.io/badge/BASE%20IMAGE-Andreas_Huber_/%20platformio--docker--for--ci-red?style=for-the-badge)](https://github.com/Andreas-Huber/platformio-docker-for-ci "View Base Image")
 
 # PlatformIO container with preinstalled toolchain for Arduino on the espressif32 platform
 
